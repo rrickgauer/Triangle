@@ -17,3 +17,13 @@ wget https://github.com/rrickgauer/Triangle/raw/master/dist/Triangle.jar
 ```
 Triangle.jar
 ```
+
+## OS X
+Coming soon!
+
+# Future plans
+- [ ] Graph out a triangle of proportional size after user enters in side lengths.
+- [ ] Make gif of application in use.
+- [ ] Implement other shapes.
+
+Pull Requests are more than welcomed!
